@@ -2,6 +2,7 @@ h1 {
   font-size: 20px;
   font-weight: 700;
   text-align: center;
+  color: hsl(218, 44%, 22%);
   font-family: "Outfit", bold;
   padding: 0px 8px 0px;
 }
@@ -29,13 +30,13 @@ html {
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  max-width: 270px;
+  max-width: 300px;
   align-items: center;
   justify-items: center;
 }
 
 #image {
-  max-width: 270px;
-  max-height: 270px;
+  max-width: 300px;
+  max-height: 300px;
   border-radius: 16px;
 }
